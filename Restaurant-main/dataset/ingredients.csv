@@ -1,0 +1,41 @@
+ingredient_id,ingredient_name,unit,cost_per_unit
+ING001,Burger Bun,pcs,0.3
+ING002,Beef Patty,pcs,1.8
+ING003,Chicken Patty,pcs,1.2
+ING004,Fish Fillet,pcs,1.7
+ING005,Cheese,g,0.02
+ING006,Lettuce,g,0.01
+ING007,Tomato,g,0.01
+ING008,Onion,g,0.01
+ING009,Potato,g,0.003
+ING010,Cooking Oil,ml,0.002
+ING011,Chicken Nugget,pcs,0.35
+ING012,Garlic Bread Base,pcs,0.4
+ING013,Sandwich Bread,pcs,0.2
+ING014,Tuna,g,0.015
+ING015,Egg,pcs,0.2
+ING016,Ham,g,0.02
+ING017,Pizza Dough,pcs,0.5
+ING018,Pizza Sauce,g,0.005
+ING019,Pepperoni,g,0.025
+ING020,Mushroom,g,0.015
+ING021,Seafood Mix,g,0.03
+ING022,Pineapple,g,0.01
+ING023,Avocado,g,0.025
+ING024,Apple,g,0.008
+ING025,Orange,g,0.006
+ING026,Mango,g,0.008
+ING027,Strawberry,g,0.015
+ING028,Lemon,g,0.005
+ING029,Coffee Beans,g,0.03
+ING030,Milk,ml,0.001
+ING031,Chocolate Syrup,ml,0.005
+ING032,Vanilla Syrup,ml,0.005
+ING033,Ice Cream,g,0.006
+ING034,Cocoa Powder,g,0.02
+ING035,Cake Flour,g,0.002
+ING036,Sugar,g,0.001
+ING037,Butter,g,0.01
+ING038,Cocoa Chocolate,g,0.02
+ING039,Cream,ml,0.004
+ING040,Salad Dressing,ml,0.005

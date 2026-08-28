@@ -1,0 +1,40 @@
+vs code terminal mr 
+
+PS> D:\Restaurant\cd backend
+& "C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\python.exe" -m pip show fastapi 
+# shi ma shi sis shi yin kyi
+
+# API အလုပ်လုပ်လား စစ်
+http://127.0.0.1:8000/docs
+
+PS D:\Restaurant\backend> & "C:\Users\LENOVO\AppData\Local\Programs\Python\Python310\python.exe" 
+-m uvicorn main:app --reload
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/api/menu
+http://127.0.0.1:8000/api/branches
+http://127.0.0.1:8000/docs
+
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+ရရင် ဒီလိုပေါ်မယ်
+
+Uvicorn running on http://127.0.0.1:8000
+
+# MongoDB connection စစ်
+backend/database.py
+from pymongo import MongoClient
+
+client = MongoClient(
+    "mongodb://localhost:27017"
+)
+
+db = client["restaurant_db"]
+
+npm install zustand
+npm install
+
+# github ko add yin
+git add .
+git commit -m "Updated features"
+git push

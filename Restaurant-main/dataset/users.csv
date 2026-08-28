@@ -1,0 +1,6 @@
+_id,username,password,name,role,branchId
+6a89dbd9d8f7702528317f74,Admin,Admin@123,System Admin,main_admin,
+6a89dbd9d8f7702528317f75,Branch1,Branch1@123,Branch 1 Manager,branch_manager,BR001
+6a89dbd9d8f7702528317f76,Branch2,Branch2@123,Branch 2 Manager,branch_manager,BR002
+6a89dbd9d8f7702528317f77,Branch3,Branch3@123,Branch 3 Manager,branch_manager,BR003
+6a89dbd9d8f7702528317f78,Branch4,Branch4@123,Branch 4 Manager,branch_manager,BR004
